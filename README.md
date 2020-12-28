@@ -1,7 +1,21 @@
-<<<<<<< HEAD
 # cluedo_notes
 
-Cluedo Notes Flutter project.
+CluedoNotes is a companion app for the Cluedo board-game.
+
+# information
+
+The following project aims to be a spreadsheet to help players of Cluedo take notes during the Cluedo board game.
+
+<h2>Features:</h2>
+<ul>
+  <li>Allow players to easily take notes</li>
+  <li>Hide the screen on tap in order to prevent players to see your notes</li>
+  <li>Support as many cluedo version as possible</li>
+  <li>Clear spreeadsheet function on button tap</li>
+  <li>Provide information on how to use the app inside of the app itself</li>
+  </ul>
+
+<h2>Status: STILL ON DEVELOPMENT</h2>
 
 ## Getting Started
 
@@ -15,7 +29,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-# CluedoNotes
-CluedoNotes is a companion app for the Cluedo board-game.
->>>>>>> d3e83de76fc66b6d92f29855520a40d7c2440c1a
+
