@@ -20,6 +20,8 @@ The final goal of th project is to be posted on Google Play as a free app.
 
 <h2>Status: STILL ON DEVELOPMENT</h2>
 
+![Cluedo Cover](assets/cluedo_hide_notepad_image.jpg?raw=true "Cluedo cover image")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
