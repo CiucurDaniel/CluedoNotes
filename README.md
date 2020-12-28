@@ -1,10 +1,13 @@
-# cluedo_notes
+<img href="/assets/cluedo_logo.png" alt="Cluedo logo image">
+
+# Cluedo_Notes
 
 CluedoNotes is a companion app for the Cluedo board-game.
 
-# information
+# Information
 
 The following project aims to be a spreadsheet to help players of Cluedo take notes during the Cluedo board game.
+The final goal of th project is to be posted on Google Play as a free app.
 
 <h2>Features:</h2>
 <ul>
