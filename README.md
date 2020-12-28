@@ -1,4 +1,4 @@
-<img href="/assets/cluedo_logo.png" alt="Cluedo logo image">
+<img href="assets/cluedo_logo.png" alt="Cluedo logo image">
 
 # Cluedo_Notes
 
