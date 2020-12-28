@@ -1,4 +1,4 @@
-![Cluedo Notes](assets/cluedo_logo.PNG?raw=true "Cluedo logo image")
+![Cluedo Notes](assets/cluedo_logo.png?raw=true "Cluedo logo image")
 
 # Cluedo_Notes
 
